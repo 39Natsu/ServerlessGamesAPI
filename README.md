@@ -1,8 +1,6 @@
 # ServerlessGamesAPI
 A serverless API for managing and summarizing game data using Azure Functions and Google Gemini. This project provides endpoints for retrieving games by genre, by release year, and generating summaries of games using advanced generative AI.
 
-# Serverless Games API
-
 ## Overview
 
 This project is a serverless API built using Azure Functions and Cosmos DB, with integration to Google Gemini for generating game summaries. The API allows you to query games based on genre, year, and retrieve detailed summaries.
